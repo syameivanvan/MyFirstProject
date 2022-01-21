@@ -1,10 +1,11 @@
 #include<iostream>
-using namespace std
+
+using namespace std;
 
 void Dis(){
 	cout << "What ?" << endl;
 	}
 	
 int main(){
-	cout << "Hello World !" << endl;
+	cout << "Hello World but not now." << endl;
 	}
