@@ -1,0 +1,12 @@
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\bin\Debug\net5.0\SuperCalculator.deps.json
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\bin\Debug\net5.0\SuperCalculator.dll
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\bin\Debug\net5.0\ref\SuperCalculator.dll
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\bin\Debug\net5.0\SuperCalculator.pdb
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\obj\Debug\net5.0\SuperCalculator.csproj.AssemblyReference.cache
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\obj\Debug\net5.0\SuperCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\obj\Debug\net5.0\SuperCalculator.AssemblyInfoInputs.cache
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\obj\Debug\net5.0\SuperCalculator.AssemblyInfo.cs
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\obj\Debug\net5.0\SuperCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\obj\Debug\net5.0\SuperCalculator.dll
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\obj\Debug\net5.0\ref\SuperCalculator.dll
+C:\Users\Y7000p\Desktop\C#自学\test_1\SuperCalculator\obj\Debug\net5.0\SuperCalculator.pdb
