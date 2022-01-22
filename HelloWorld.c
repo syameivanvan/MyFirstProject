@@ -8,4 +8,5 @@ void Dis(){
 	
 int main(){
 	cout << "Hello World but not now." << endl;
+	Dis();
 	}
